@@ -1,0 +1,6 @@
+code: acc-location-table-widget
+titles:
+  en: Acc Location Table Widget
+  it: Acc Location Table Widget
+group: free
+customUiPath: acc-location-table-widget.ftl

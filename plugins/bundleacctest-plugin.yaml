@@ -3,4 +3,6 @@ dbms: postgresql
 healthCheckPath: "/management/health"
 roles:
   - "bundleAccTest-admin"
+  - "acc-conference-admin"
+  - "acc-location-admin"
 # entando-needle-descriptor-add-roles - Entando blueprint will add roles here

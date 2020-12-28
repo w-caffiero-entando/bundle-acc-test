@@ -6,5 +6,11 @@ components:
     - plugins/bundleacctest-plugin.yaml
 
   widgets:
+    - ui/widgets/acc-conference/tableWidget/acc-conference-table-widget-descriptor.yaml
+    - ui/widgets/acc-conference/detailsWidget/acc-conference-details-widget-descriptor.yaml
+    - ui/widgets/acc-conference/formWidget/acc-conference-form-widget-descriptor.yaml
+    - ui/widgets/acc-location/tableWidget/acc-location-table-widget-descriptor.yaml
+    - ui/widgets/acc-location/detailsWidget/acc-location-details-widget-descriptor.yaml
+    - ui/widgets/acc-location/formWidget/acc-location-form-widget-descriptor.yaml
 # entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
 

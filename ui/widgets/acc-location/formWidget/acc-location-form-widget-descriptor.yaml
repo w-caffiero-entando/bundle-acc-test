@@ -1,0 +1,6 @@
+code: acc-location-form-widget
+titles:
+  en: Acc Location Form Widget
+  it: Acc Location Form Widget
+group: free
+customUiPath: acc-location-form-widget.ftl
