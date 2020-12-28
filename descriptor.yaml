@@ -1,0 +1,10 @@
+code: bundleacctest-bundle
+description: This is the bundleAccTest bundle
+
+components:
+  plugins:
+    - plugins/bundleacctest-plugin.yaml
+
+  widgets:
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+

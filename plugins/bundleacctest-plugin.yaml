@@ -1,0 +1,6 @@
+image: entandosamples/bundle-acc-test:0.0.1-SNAPSHOT
+dbms: postgresql
+healthCheckPath: "/management/health"
+roles:
+  - "bundleAccTest-admin"
+# entando-needle-descriptor-add-roles - Entando blueprint will add roles here
