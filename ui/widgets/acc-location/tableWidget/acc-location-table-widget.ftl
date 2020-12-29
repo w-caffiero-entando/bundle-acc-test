@@ -1,8 +1,8 @@
 <#assign wp=JspTaglibs["/aps-core"]>
 <script src="<@wp.resourceURL />bundleacctest-bundle/static/js/2.023d7c30.chunk.js"></script>
 <script src="<@wp.resourceURL />bundleacctest-bundle/static/js/2.023d7c30.chunk.js.map"></script>
-<script src="<@wp.resourceURL />bundleacctest-bundle/static/js/main.46670b23.chunk.js"></script>
-<script src="<@wp.resourceURL />bundleacctest-bundle/static/js/main.46670b23.chunk.js.map"></script>
+<script src="<@wp.resourceURL />bundleacctest-bundle/static/js/main.79c61b07.chunk.js"></script>
+<script src="<@wp.resourceURL />bundleacctest-bundle/static/js/main.79c61b07.chunk.js.map"></script>
 <script src="<@wp.resourceURL />bundleacctest-bundle/static/js/runtime~main.2b540a8e.js"></script>
 <script src="<@wp.resourceURL />bundleacctest-bundle/static/js/runtime~main.2b540a8e.js.map"></script>
 <#-- entando_resource_injection_point -->
