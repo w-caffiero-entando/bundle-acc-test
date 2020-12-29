@@ -1,4 +1,4 @@
-image: entandosamples/bundle-acc-test:0.0.1-SNAPSHOT
+image: wcaent/bundle-acc-test:0.0.1-SNAPSHOT
 dbms: postgresql
 healthCheckPath: "/management/health"
 roles:
